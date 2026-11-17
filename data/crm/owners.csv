@@ -1,0 +1,4 @@
+owner_id,full_name,email,role,synthetic
+S01,Lena Ortiz,lena@workshop-seller.example,Workshop sales team,true
+S02,Samir Hale,samir@workshop-seller.example,Workshop sales team,true
+S03,Jo Chen,jo@workshop-seller.example,Workshop sales team,true

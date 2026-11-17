@@ -1,0 +1,46 @@
+contact_id,company_id,full_name,job_title,email,buying_role,budget_authority,owner,synthetic
+P001,C001,Mira Stein,Head of Revenue Operations,mira@alderpath.example,Champion,No,Lena Ortiz,true
+P002,C002,Jonas Vale,GTM Engineer,jonas@brindle.example,Champion,No,Samir Hale,true
+P003,C003,Rhea Malik,RevOps Lead,rhea@cobaltledger.example,Champion,No,Jo Chen,true
+P004,C004,Anika Frost,Sales Operations Manager,anika@dovetailroute.example,Champion,No,Lena Ortiz,true
+P005,C005,Soren Reed,Founder,soren@emberlane.example,Business owner,Yes,Samir Hale,true
+P006,C006,Leonie Hart,Revenue Enablement Lead,leonie@fjordlinemetrics.example,Champion,No,Jo Chen,true
+P007,C007,Marta Voss,Head of Sales Enablement,marta@grovebridge.example,Champion,No,Lena Ortiz,true
+P008,C008,Theo Marin,Agency Partner,theo@harborwell.example,Business owner,Yes,Samir Hale,true
+P009,C009,Camille Duret,Partner,camille@ivorygate.example,Business owner,Yes,Jo Chen,true
+P010,C010,Nina Ek,Head of Revenue,nina@juniperrelay.example,Business owner,Yes,Lena Ortiz,true
+P011,C011,Pavel Adler,Procurement Lead,pavel@kestrelvault.example,,,Samir Hale,true
+P012,C012,Lucia Moss,Growth Lead,lucia@lumenorchard.example,,,Jo Chen,true
+P013,C013,Aino West,Head of GTM,aino@morrowfield.example,Champion,,Lena Ortiz,true
+P014,C014,Elena Ward,Managing Partner,elena@northpier.example,Champion,,Samir Hale,true
+P015,C015,Zofia Wren,Strategy Director,zofia@oakfern.example,Champion,,Jo Chen,true
+P016,C016,Klara Reed,Revenue Lead,klara@pinecrestflow.example,,,Lena Ortiz,true
+P017,C017,Noor Bell,Founder,noor@quartzwick.example,Business owner,,Samir Hale,true
+P018,C018,Diego Rowan,GTM Lead,diego@rivermarksignal.example,,,Jo Chen,true
+P019,C019,Greta Shore,RevOps Manager,greta@stonehavenloop.example,,,Lena Ortiz,true
+P020,C020,Freya Lane,Partner,freya@thistlebridge.example,,,Samir Hale,true
+P021,C021,Daan Frost,Head of Sales Operations,daan@umberlake.example,,,Jo Chen,true
+P022,C022,Lara Finch,Partner,lara@verdantharbor.example,,,Lena Ortiz,true
+P023,C023,Karl Vale,Head of Growth,karl@willowspan.example,,,Samir Hale,true
+P024,C024,Hazel Reed,Operations Director,hazel@xylofield.example,,,Jo Chen,true
+P025,C025,Remy Lake,Revenue Enablement Manager,remy@yarrowgate.example,,,Lena Ortiz,true
+P026,C026,Ida Stone,Founder,ida@zephyrwell.example,,,Samir Hale,true
+P027,C027,Bram Shore,VP Sales,bram@ashcombe.example,,,Jo Chen,true
+P028,C028,Giulia Hart,Marketing Lead,giulia@birchmere.example,,,Lena Ortiz,true
+P029,C029,Lotte Wren,Managing Director,lotte@cedarwick.example,,,Samir Hale,true
+P030,C001,Elias Brandt,VP Sales,elias@alderpath.example,Decision maker,Yes,Lena Ortiz,true
+P031,C002,Iris Bloom,Managing Director,iris@brindle.example,Decision maker,Yes,Samir Hale,true
+P032,C003,Nolan Price,IT Director,nolan@cobaltledger.example,Security reviewer,,Jo Chen,true
+P033,C004,Tomas Birch,VP Revenue,tomas@dovetailroute.example,Decision maker,Yes,Lena Ortiz,true
+P034,C005,Maya Finch,Consultant,maya@emberlane.example,User,,Samir Hale,true
+P035,C006,Omar Lind,CRO,omar@fjordlinemetrics.example,Executive stakeholder - authority unconfirmed,,Jo Chen,true
+P036,C007,Felix Rowan,VP Sales,felix@grovebridge.example,Decision maker,Yes,Lena Ortiz,true
+P037,C008,Sofia Crane,Delivery Director,sofia@harborwell.example,Delivery owner,No,Samir Hale,true
+P038,C009,Louis Hale,Operations Lead,louis@ivorygate.example,Operations owner,,Jo Chen,true
+P039,C010,Anton Lake,RevOps Manager,anton@juniperrelay.example,Operations owner,,Lena Ortiz,true
+P040,C011,Eva Kroll,Security Director,eva@kestrelvault.example,Security reviewer,,Samir Hale,true
+P041,C012,Mateo Vale,Operations Manager,mateo@lumenorchard.example,Decision maker,Yes,Jo Chen,true
+P042,C013,Mikko Dale,Finance Director,mikko@morrowfield.example,Decision maker,Yes,Lena Ortiz,true
+P043,C014,Marcus Bell,Delivery Lead,marcus@northpier.example,Decision maker,Yes,Samir Hale,true
+P044,C015,Piotr Moss,Managing Director,piotr@oakfern.example,Decision maker,Yes,Jo Chen,true
+P045,C016,David Frost,CEO,david@pinecrestflow.example,Decision maker,Yes,Lena Ortiz,true

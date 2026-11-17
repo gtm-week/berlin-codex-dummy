@@ -1,0 +1,31 @@
+source_id,source_type,company_id,contact_ids,occurred_at,coverage,path,synthetic
+T01,transcript,C001,P001,2026-11-05,complete,data/transcripts/t01-alderpath.md,true
+T02,transcript,C002,P002,2026-11-06,complete,data/transcripts/t02-brindle.md,true
+T03,transcript,C003,P003;P032,2026-11-04,complete,data/transcripts/t03-cobaltledger.md,true
+T04,transcript,C004,P004;P033,2026-11-10,complete,data/transcripts/t04-dovetailroute.md,true
+T05,transcript,C005,P005,2026-11-06,complete,data/transcripts/t05-emberlane.md,true
+T06,transcript,C006,P006,2026-11-09,partial,data/transcripts/t06-fjordlinemetrics.md,true
+T07,transcript,C007,P007,2026-11-06,complete,data/transcripts/t07-grovebridge.md,true
+T08,transcript,C008,P008;P037,2026-11-11,complete,data/transcripts/t08-harborwell.md,true
+E01,email,C001,P001,2026-11-12,complete,data/email/e01-alderpath.md,true
+E02,email,C002,P002;P031,2026-11-12,complete,data/email/e02-brindle.md,true
+E03,email,C003,P003;P032,2026-11-04,complete,data/email/e03-cobaltledger.md,true
+E04,email,C004,P004;P033,2026-11-12,complete,data/email/e04-dovetailroute.md,true
+E05,email,C005,P005,2026-11-09,complete,data/email/e05-emberlane.md,true
+E06,email,C006,P006,2026-11-12,complete,data/email/e06-fjordlinemetrics.md,true
+E07,email,C007,P007,2026-11-13,complete,data/email/e07-grovebridge.md,true
+E08,email,C008,P008;P037,2026-11-12,complete,data/email/e08-harborwell.md,true
+E09,email,C016,P016,2026-11-12,complete,data/email/e09-pinecrestflow.md,true
+E10,email,C013,P013;P042,2026-11-14,complete,data/email/e10-morrowfield.md,true
+W01,website fixture,C001,,2026-11-02,complete,data/web/w01-alderpath.md,true
+W02,website fixture,C002,,2026-11-02,complete,data/web/w02-brindle.md,true
+W03,website fixture,C003,,2026-11-02,complete,data/web/w03-cobaltledger.md,true
+W04,website fixture,C004,,2026-11-02,complete,data/web/w04-dovetailroute.md,true
+W05,website fixture,C006,,2026-11-02,complete,data/web/w05-fjordlinemetrics.md,true
+W06,website fixture,C007,,2026-11-02,complete,data/web/w06-grovebridge.md,true
+W07,website fixture,C008,,2026-11-02,complete,data/web/w07-harborwell.md,true
+W08,website fixture,C019,,2026-11-02,complete,data/web/w08-stonehavenloop.md,true
+W09,website fixture,C020,,2026-11-02,complete,data/web/w09-thistlebridge.md,true
+W10,website fixture,C023,,2026-11-02,complete,data/web/w10-willowspan.md,true
+W11,website fixture,C027,,2026-11-02,complete,data/web/w11-ashcombe.md,true
+W12,website fixture,C028,,2026-11-02,complete,data/web/w12-birchmere.md,true

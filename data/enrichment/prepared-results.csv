@@ -1,0 +1,16 @@
+result_id,contact_id,company_id,input_name,input_company,result_status,returned_name,returned_email,email_status,candidate_names,notes,processed_at,synthetic
+EN001,P001,C001,Mira Stein,Alderpath Systems,matched,Mira Stein,mira@alderpath.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN002,P002,C002,Jonas Vale,Brindle Growth,ambiguous,,,unknown,Jonas Vale; Jonas R. Vale,Same-company names cannot be disambiguated from the prepared input,2026-11-16,true
+EN003,P003,C003,Rhea Malik,Cobalt Ledger,matched,Rhea Malik,rhea@cobaltledger.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN004,P004,C004,Anika Frost,Dovetail Route,matched,Anika Frost,anika@dovetailroute.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN006,P006,C006,Leonie Hart,Fjordline Metrics,unmatched,,,unknown,,No match returned; do not fill from another source as an enrichment success,2026-11-16,true
+EN007,P007,C007,Marta Voss,Grovebridge Labs,matched,Marta Voss,marta@grovebridge.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN008,P008,C008,Theo Marin,Harborwell Studio,matched,Theo Marin,theo@harborwell.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN013,P013,C013,Aino West,Morrowfield Cloud,matched,Aino West,aino@morrowfield.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN016,P016,C016,Klara Reed,Pinecrest Flow,matched,Klara Reed,klara@pinecrestflow.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN019,P019,C019,Greta Shore,Stonehaven Loop,matched,Greta Shore,greta@stonehavenloop.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN020,P020,C020,Freya Lane,Thistlebridge,matched,Freya Lane,freya@thistlebridge.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN023,P023,C023,Karl Vale,Willowspan AI,unmatched,,,unknown,,No match returned; do not fill from another source as an enrichment success,2026-11-16,true
+EN027,P027,C027,Bram Shore,Ashcombe Portal,matched,Bram Shore,bram@ashcombe.example,synthetic example - not deliverable,,Prepared identity match only; does not establish authority or need,2026-11-16,true
+EN028,P028,C028,Giulia Hart,Birchmere Commerce,unmatched,,,unknown,,No match returned; do not fill from another source as an enrichment success,2026-11-16,true
+EN029,P029,C029,Lotte Wren,Cedarwick Studio,ambiguous,,,unknown,Lotte Wren; Lotte R. Wren,Same-company names cannot be disambiguated from the prepared input,2026-11-16,true

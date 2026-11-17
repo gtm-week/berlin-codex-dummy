@@ -1,0 +1,19 @@
+exclusion_id,company_id,company_domain,category,reason,recorded_at,synthetic
+X001,C001,alderpath.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X002,C002,brindle.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X003,C003,cobaltledger.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X004,C004,dovetailroute.example,Existing customer,Use account owner for onboarding; exclude from net-new outreach,2026-11-16,true
+X005,C005,emberlane.example,Do not contact,Requested no active follow-up,2026-11-16,true
+X006,C006,fjordlinemetrics.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X007,C007,grovebridge.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X008,C008,harborwell.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X009,C009,ivorygate.example,Existing customer,Use account owner for onboarding; exclude from net-new outreach,2026-11-16,true
+X010,C010,juniperrelay.example,Existing customer,Use account owner for onboarding; exclude from net-new outreach,2026-11-16,true
+X011,C011,kestrelvault.example,Do not contact,Security prerequisite unresolved; no further sales approach without reopening,2026-11-16,true
+X012,C012,lumenorchard.example,Out of scope,Consumer ecommerce need does not match the sample B2B account workflow,2026-11-16,true
+X013,C013,morrowfield.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X014,C014,northpier.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X015,C015,oakfern.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X016,C016,pinecrestflow.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X017,C017,quartzwick.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true
+X018,C018,rivermarksignal.example,Active opportunity,Coordinate through current owner; exclude from new outbound list,2026-11-16,true

@@ -1,0 +1,31 @@
+company_id,company_name,company_domain,segment,employees,location,current_stack,description,relationship,owner,acquisition_source,record_updated_at,synthetic
+C001,Alderpath Systems,alderpath.example,B2B SaaS,72,"Berlin, DE",HubSpot; Gmail; Granola; Notion,Workflow approvals for industrial service teams,Active opportunity,Lena Ortiz,Community referral,2026-11-16,true
+C002,Brindle Growth,brindle.example,Agency,24,"Amsterdam, NL",Attio; Gmail; Fireflies; Google Drive,Outbound and positioning for B2B software companies,Active opportunity,Samir Hale,Website enquiry,2026-11-16,true
+C003,Cobalt Ledger,cobaltledger.example,B2B SaaS,110,"London, UK",Salesforce; Outlook; Gong; Confluence,Reconciliation software for finance operations,Active opportunity,Jo Chen,Workshop follow-up,2026-11-16,true
+C004,Dovetail Route,dovetailroute.example,B2B SaaS,48,"Copenhagen, DK",HubSpot; Gmail; Granola; Google Drive,Planning software for regional delivery fleets,Customer,Lena Ortiz,Partner introduction,2026-11-16,true
+C005,Emberlane Advisory,emberlane.example,Consultancy,9,"Dublin, IE",Pipedrive; Gmail; Zoom; Notion,Sales process consulting for technical founders,Closed lost,Samir Hale,Community referral,2026-11-16,true
+C006,Fjordline Metrics,fjordlinemetrics.example,B2B SaaS,85,"Oslo, NO",HubSpot; Gmail; Granola; Notion,Usage analytics for subscription finance teams,Active opportunity,Jo Chen,Website enquiry,2026-11-16,true
+C007,Grovebridge Labs,grovebridge.example,B2B SaaS,140,"Munich, DE",Salesforce; Outlook; Teams; SharePoint,Quality inspection software for manufacturers,Active opportunity,Lena Ortiz,Workshop follow-up,2026-11-16,true
+C008,Harborwell Studio,harborwell.example,Agency,18,"Lisbon, PT",Attio; Gmail; Granola; Google Drive,GTM strategy and execution for European SaaS teams,Active opportunity,Samir Hale,Partner introduction,2026-11-16,true
+C009,Ivorygate Partners,ivorygate.example,Consultancy,14,"Paris, FR",HubSpot; Gmail; Meet; Notion,Revenue operations advisory for scaleups,Customer,Jo Chen,Community referral,2026-11-16,true
+C010,Juniper Relay,juniperrelay.example,B2B SaaS,65,"Stockholm, SE",Attio; Gmail; Granola; Linear,Customer onboarding orchestration software,Customer,Lena Ortiz,Website enquiry,2026-11-16,true
+C011,Kestrel Vault,kestrelvault.example,B2B SaaS,420,"Frankfurt, DE",Salesforce; Outlook; Teams; SharePoint,Compliance archive for financial institutions,Closed lost,Samir Hale,Workshop follow-up,2026-11-16,true
+C012,Lumen Orchard,lumenorchard.example,Consumer commerce,35,"Barcelona, ES",Shopify; Klaviyo; Zendesk,Subscription home-gardening boxes,Closed lost,Jo Chen,Partner introduction,2026-11-16,true
+C013,Morrowfield Cloud,morrowfield.example,B2B SaaS,92,"Helsinki, FI",HubSpot; Gmail; Gong; Notion,Cloud cost allocation for engineering teams,Active opportunity,Lena Ortiz,Community referral,2026-11-16,true
+C014,Northpier Revenue,northpier.example,Consultancy,21,"Manchester, UK",Attio; Gmail; Fathom; Notion,Fractional revenue leadership and RevOps,Active opportunity,Samir Hale,Website enquiry,2026-11-16,true
+C015,Oakfern Works,oakfern.example,Agency,32,"Warsaw, PL",HubSpot; Gmail; Granola; Google Drive,Product marketing and demand generation,Active opportunity,Jo Chen,Workshop follow-up,2026-11-16,true
+C016,Pinecrest Flow,pinecrestflow.example,B2B SaaS,56,"Prague, CZ",Pipedrive; Gmail; Meet; Notion,Maintenance scheduling software for factories,Active opportunity,Lena Ortiz,Partner introduction,2026-11-16,true
+C017,Quartzwick Ops,quartzwick.example,Consultancy,7,"Brussels, BE",Airtable; Gmail; Meet; Google Drive,CRM implementation for service firms,Active opportunity,Samir Hale,Community referral,2026-11-16,true
+C018,Rivermark Signal,rivermarksignal.example,Agency,26,"Madrid, ES",HubSpot; Gmail; Zoom; Notion,Account-based marketing for logistics vendors,Active opportunity,Jo Chen,Website enquiry,2026-11-16,true
+C019,Stonehaven Loop,stonehavenloop.example,B2B SaaS,74,"Hamburg, DE",HubSpot; Gmail; Granola; Notion,Customer support quality analytics,Prospect,Lena Ortiz,Workshop follow-up,2026-11-16,true
+C020,Thistlebridge,thistlebridge.example,Agency,16,"Edinburgh, UK",Attio; Gmail; Fathom; Google Drive,Research-led outbound for engineering software,Prospect,Samir Hale,Partner introduction,2026-11-16,true
+C021,Umberlake Data,umberlake.example,B2B SaaS,95,"Rotterdam, NL",Salesforce; Gmail; Gong; Confluence,Data quality monitoring for logistics teams,Prospect,Jo Chen,Community referral,2026-11-16,true
+C022,Verdant Harbor,verdantharbor.example,Consultancy,12,"Vienna, AT",Pipedrive; Outlook; Teams; SharePoint,Commercial operations for sustainability companies,Prospect,Lena Ortiz,Website enquiry,2026-11-16,true
+C023,Willowspan AI,willowspan.example,B2B SaaS,38,"Tallinn, EE",HubSpot; Gmail; Granola; Notion,Document extraction for freight forwarders,Prospect,Samir Hale,Workshop follow-up,2026-11-16,true
+C024,Xylofield Growth,xylofield.example,Agency,29,"Bristol, UK",Attio; Gmail; Fireflies; Notion,Lifecycle marketing for subscription businesses,Prospect,Jo Chen,Partner introduction,2026-11-16,true
+C025,Yarrowgate Systems,yarrowgate.example,B2B SaaS,160,"Lyon, FR",Salesforce; Outlook; Teams; Confluence,Contract review software for procurement teams,Prospect,Lena Ortiz,Community referral,2026-11-16,true
+C026,Zephyrwell Advisory,zephyrwell.example,Consultancy,5,"Zurich, CH",Sheets; Gmail; Meet; Drive,Founder-led sales coaching,Prospect,Samir Hale,Website enquiry,2026-11-16,true
+C027,Ashcombe Portal,ashcombe.example,B2B SaaS,62,"Utrecht, NL",HubSpot; Gmail; Granola; Notion,Partner portals for industrial equipment vendors,Prospect,Jo Chen,Workshop follow-up,2026-11-16,true
+C028,Birchmere Commerce,birchmere.example,Consumer commerce,44,"Milan, IT",Shopify; Klaviyo; Zendesk,Direct-to-consumer household subscriptions,Prospect,Lena Ortiz,Partner introduction,2026-11-16,true
+C029,Cedarwick Studio,cedarwick.example,Agency,19,"Ghent, BE",Attio; Gmail; Fathom; Notion,Content and sales enablement for B2B founders,Prospect,Samir Hale,Community referral,2026-11-16,true
+C030,Dovetail Route Ltd,dovetailroute.example,B2B SaaS,48,"Copenhagen, DK",HubSpot; Gmail; Granola; Google Drive,Planning software for regional delivery fleets,Prospect,Lena Ortiz,Imported event list,2026-11-16,true
